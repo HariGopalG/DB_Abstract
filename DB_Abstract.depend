@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1590828556 source:d:\luxoft\luxworkspace\webos\qt\db_abstract\dbsqlite.cpp
+	<iostream>
+	<string>
+	"include/DBSQLite.h"
+
+1590828559 d:\luxoft\luxworkspace\webos\qt\db_abstract\include\dbsqlite.h
+	"DBInterface.h"
+	"sqlite3.h"
+
+1590828559 d:\luxoft\luxworkspace\webos\qt\db_abstract\include\dbinterface.h
+
+1590424383 d:\luxoft\luxworkspace\webos\qt\db_abstract\include\sqlite3.h
+	<stdarg.h>
+
+1590831107 source:d:\luxoft\luxworkspace\webos\qt\db_abstract\main.cpp
+	<iostream>
+	"include/DBInterface.h"
+	"include/DBBuilder.h"
+
+1590831044 source:d:\luxoft\luxworkspace\webos\qt\db_abstract\dbbuilder.cpp
+	<iostream>
+	<string>
+	"include/DBBuilder.h"
+	"include/DBInterface.h"
+	"include/DBSQLite.h"
+
+1590830438 d:\luxoft\luxworkspace\webos\qt\db_abstract\include\dbbuilder.h
+	"DBSQLite.h"
+
